@@ -16,4 +16,5 @@ constante n que significa a inalteração da velocidade, proporcional à quantid
 um vetor de um milhão de elementos, mesmo no melhor caso, porém a proporcionalidade entre a quantidade de elementos e sua velocidade continua constante, 
 diferente do Pior Caso que aumenta ao quadrado.</p>
 
-O melhor caso ocorre quando todos os elementos já estão ordenados e o pior caso é exatamente o contrário, quando todos os elementos estão desordenados. 
+<p>O melhor caso ocorre quando todos os elementos já estão ordenados e o pior caso é exatamente o contrário, quando todos os elementos estão desordenados. </p>
+<img src="https://github.com/lucasrm1981/InsertionSort-JAVA/blob/main/DesenpenhoInsertionSort.PNG">
